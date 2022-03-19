@@ -23,6 +23,6 @@ tshock.admin.ban – разрешение на бан для TShock (по умо
 ### Поддержать
 
 <p align="center">
-<a href=""><img title="Buy Me A Coffee" src="https://miro.medium.com/max/1400/1*QCQqlZr6doDP-cszzpaSpw.png"></a>
+<a href="https://www.buymeacoffee.com/TerrariaSNG"><img title="Buy Me A Coffee" src="https://miro.medium.com/max/1400/1*QCQqlZr6doDP-cszzpaSpw.png"></a>
   
 
