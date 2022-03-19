@@ -13,5 +13,5 @@ tshock.admin.ban – разрешение на бан для TShock (по умо
 
 ### Команды:
 
-/fban  add [причина] – работает как и /ban add [причина]
-/fban  addtemp [причина] – работает как и /ban addtemp [причина]
+`/fban  add [причина] – работает как и /ban add [причина]`
+`/fban  addtemp [причина] – работает как и /ban addtemp [причина]`
