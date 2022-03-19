@@ -1,9 +1,5 @@
-<h2 align="center" Follow </h2>
-<p align="center">
-<a href="https://discord.gg/s4gFbdrMmd"><img title="Discord" src="https://discord.com/assets/92ad040ed5143bfb541ea61f5c3bb18f.svg"></a>
-</p>
-
-
+888919893452394556
+<iframe src="https://discord.com/widget?id=888919893452394556&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 ## Описание
 
