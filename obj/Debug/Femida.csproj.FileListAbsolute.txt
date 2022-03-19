@@ -1,0 +1,14 @@
+D:\Desktop\Femida\obj\Debug\Femida.csproj.AssemblyReference.cache
+D:\Desktop\Femida\obj\Debug\Femida.csproj.CoreCompileInputs.cache
+D:\Desktop\Femida\bin\Debug\Femida.dll
+D:\Desktop\Femida\bin\Debug\Femida.pdb
+D:\Desktop\Femida\bin\Debug\BCrypt.Net.dll
+D:\Desktop\Femida\bin\Debug\HttpServer.dll
+D:\Desktop\Femida\bin\Debug\Mono.Data.Sqlite.dll
+D:\Desktop\Femida\bin\Debug\MySql.Data.dll
+D:\Desktop\Femida\bin\Debug\Newtonsoft.Json.dll
+D:\Desktop\Femida\bin\Debug\OTAPI.dll
+D:\Desktop\Femida\bin\Debug\TerrariaServer.exe
+D:\Desktop\Femida\bin\Debug\TShockAPI.dll
+D:\Desktop\Femida\obj\Debug\Femida.dll
+D:\Desktop\Femida\obj\Debug\Femida.pdb
