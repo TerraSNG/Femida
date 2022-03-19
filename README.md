@@ -21,4 +21,8 @@ tshock.admin.ban – разрешение на бан для TShock (по умо
 `/fban  addtemp [причина] – работает как и /ban addtemp [причина]`
 
 ### Поддержать
-[https://miro.medium.com/max/1400/1*QCQqlZr6doDP-cszzpaSpw.png](...)
+
+<p align="center">
+<a href=""><img title="Buy Me A Coffee" src="https://miro.medium.com/max/1400/1*QCQqlZr6doDP-cszzpaSpw.png"></a>
+  
+
