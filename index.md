@@ -1,3 +1,8 @@
+<iframe src="https://discord.com/widget?id=888919893452394556&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
+
+
+
 # Содержание
 * [📚 Описание](https://github.com/TerraSNG/Femida/blob/main/README.md#-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5)
 * [📦 Возможности плагина](https://github.com/TerraSNG/Femida/blob/main/README.md#-%D0%B2%D0%BE%D0%B7%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D0%BF%D0%BB%D0%B0%D0%B3%D0%B8%D0%BD%D0%B0)
