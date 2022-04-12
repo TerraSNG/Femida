@@ -1,0 +1,28 @@
+<html>
+    <head>
+        <title>Bans</title>
+    </head>
+    <body>
+        Banlist<br />
+        {% if bans.bans.length == 0 %}
+          Empty
+        {% endif %}
+
+        {% if bans.bans.length > 0 %}
+          <table>
+              <tr>
+                  <th>Name</th>
+                  <th>Reason</th>
+
+              </tr>
+          {% for ban in bans.bans %}
+              <tr>
+                  <td>{{ban.name}}</td>
+                  <td>{{ban.reason}}</td>
+              </tr>
+          {% endfor %}
+          </table>
+        {% endif %}
+        
+    </body>
+</html>
