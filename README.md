@@ -7,7 +7,7 @@
 </div>
 <h2 align="center">Наш дискорд сервер</h2>
 <p align="center">
-<a href=""><img title="Discord" src="https://discord.com/assets/364fc8a0ee7fcebf47ca6ebd16ec12f1.svg"</a>
+<a href="https://discord.gg/s4gFbdrMmd"><img title="Discord" src="https://discord.com/assets/364fc8a0ee7fcebf47ca6ebd16ec12f1.svg"</a>
 </p>
 
 ![test3](https://user-images.githubusercontent.com/85753549/152636631-18d2dc9a-fda8-4558-a190-a57fbb69750e.png)
