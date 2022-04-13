@@ -1,5 +1,5 @@
 **The tSNG Team (also tSNG Team) is the legal entity holding ownership of the tModLoader brand and software. 
-Current members are: [SteelSeries](), [Woodman](https://github.com/nordbearbotdev), [Comdar]() and [Zluka]()**
+Current members are: [SteelSeries](), [Woodman](https://github.com/nordbearbotdev), [Comdar]() and [Zluka](https://github.com/cryyy002)**
 
 **Members can be added or removed only through unanimous vote. If a member is uncontactable for 2 weeks, they are considered to abstain from voting.**
 
