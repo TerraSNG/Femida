@@ -1,11 +1,10 @@
-![femida](https://user-images.githubusercontent.com/85753549/161287353-353808a0-9c40-4255-8097-5592cbb29101.png)
+<img src=![femida](https://user-images.githubusercontent.com/85753549/161287353-353808a0-9c40-4255-8097-5592cbb29101.png)> <img
 
 
 <h1 align="center">Femida</h1> 
 <div align="center">
 <img src="https://img.shields.io/badge/Made%20with-C#-1f425f.svg"> <img src="https://svgshare.com/i/ZhY.svg"> <img src="https://img.shields.io/github/forks/TerraSNG/Femida?style=social&label=Fork&maxAge=2592000"> <img src="https://img.shields.io/github/stars/TerraSNG/Femida?style=social&label=Star&maxAge=2592000"> <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square"> 
 </div>
-<h2 align="center">Наш дискорд сервер</h2>
 <p align="center">
 <a href="https://discord.gg/s4gFbdrMmd"><img title="Discord" src="https://discord.com/assets/364fc8a0ee7fcebf47ca6ebd16ec12f1.svg"</a>
 </p>
