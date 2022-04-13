@@ -1,8 +1,16 @@
 ![femida](https://user-images.githubusercontent.com/85753549/161287353-353808a0-9c40-4255-8097-5592cbb29101.png)
 
 
+<h1 align="center">Femida</h1> 
+<div align="center">
+<img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg"> <img src="https://svgshare.com/i/ZhY.svg"> <img src="https://img.shields.io/github/forks/nordbearbotdev/Torpeda?style=social&label=Fork&maxAge=2592000"> <img src="https://img.shields.io/github/stars/nordbearbotdev/Torpeda?style=social&label=Star&maxAge=2592000"> <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square"> 
+</div>
+<h2 align="center">Наш дискорд сервер</h2>
+<p align="center">
+<a href=""><img title="Discord" src="![Discord-Logo+Wordmark-White](https://user-images.githubusercontent.com/85753549/163181947-9c9d2325-06ac-4583-87fc-f3f51c838624.png)"></a>
+</p>
 
-
+![test3](https://user-images.githubusercontent.com/85753549/152636631-18d2dc9a-fda8-4558-a190-a57fbb69750e.png)
 
 # Содержание
 * [📚 Описание](https://github.com/TerraSNG/Femida/blob/main/README.md#-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5)
