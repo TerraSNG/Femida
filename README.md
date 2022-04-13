@@ -3,7 +3,7 @@
 
 <h1 align="center">Femida</h1> 
 <div align="center">
-<img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg"> <img src="https://svgshare.com/i/ZhY.svg"> <img src="https://img.shields.io/github/forks/nordbearbotdev/Torpeda?style=social&label=Fork&maxAge=2592000"> <img src="https://img.shields.io/github/stars/nordbearbotdev/Torpeda?style=social&label=Star&maxAge=2592000"> <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square"> 
+<img src="https://img.shields.io/badge/Made%20with-C#-1f425f.svg"> <img src="https://svgshare.com/i/ZhY.svg"> <img src="https://img.shields.io/github/forks/TerraSNG/Femida?style=social&label=Fork&maxAge=2592000"> <img src="https://img.shields.io/github/stars/TerraSNG/Femida?style=social&label=Star&maxAge=2592000"> <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square"> 
 </div>
 <h2 align="center">Наш дискорд сервер</h2>
 <p align="center">
