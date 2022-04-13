@@ -10,7 +10,6 @@
 <a href="https://discord.gg/s4gFbdrMmd"><img title="Discord" src="https://discord.com/assets/364fc8a0ee7fcebf47ca6ebd16ec12f1.svg"</a>
 </p>
 
-![test3](https://user-images.githubusercontent.com/85753549/152636631-18d2dc9a-fda8-4558-a190-a57fbb69750e.png)
 
 # Содержание
 * [📚 Описание](https://github.com/TerraSNG/Femida/blob/main/README.md#-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5)
