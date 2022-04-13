@@ -8,7 +8,7 @@ The tSNG Team retains ownership of the Femida brand, and requests that derivativ
 
 
 **Команда tSNG (также команда tango) является юридическим лицом, владеющим брендом tModLoader и программным обеспечением. 
-В настоящее время участниками являются: [SteelSeries](), [Woodman](), [Comdar]() и [Zluka]()**
+В настоящее время участниками являются: [SteelSeries](), [Woodman](https://github.com/nordbearbotdev), [Comdar](https://github.com/COMDARR) и [Zluka](https://github.com/cryyy002)**
 
 **Участники могут быть добавлены или удалены только путем единогласного голосования. Если участник не может вступить в контакт в течение 2 недель, считается, что он воздержался от голосования.**
 
